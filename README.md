@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sounddrill31&theme=radical)](https://git.io/streak-stats) 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sounddrill31&theme=radical)](https://github.com/LordDashMe/github-contribution-stats/)
+<p align="center"><img width="80" height="80" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="mona loading default" /></p>
