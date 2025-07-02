@@ -1,4 +1,4 @@
-[![AAAAAAAAAAAAA](https://actuallysomecat.github.io/blog/assets/images/buttons/aaaaaaaaaaa.gif)](https://actuallysomecat.github.io) [![OnTheFediverseBtw](https://actuallysomecat.github.io/blog/assets/images/buttons/88x31_imonthefediversebtw.png)](https://infosec.exchange/@sounddrill)
+[![OnTheFediverseBtw](https://actuallysomecat.github.io/blog/assets/images/buttons/88x31_imonthefediversebtw.png)](https://infosec.exchange/@sounddrill) ![AAAAAAAAAAAAA](https://actuallysomecat.github.io/blog/assets/images/buttons/aaaaaaaaaaa.gif) 
 
 ![sounddrill31's github stats](https://github-readme-stats.vercel.app/api?username=sounddrill31&show_icons=true&theme=solarized-dark)
 
